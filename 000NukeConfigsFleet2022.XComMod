@@ -1,0 +1,4 @@
+﻿[mod]
+Title=Fleet's 2022 Config Nuking
+Description=Nukes vanilla and other mod's configs so I can re do this. THIS MUST ALWAYS BE LOADED FIRST (aka first alphabetically in local mod folder)
+RequiresXPACK=true
